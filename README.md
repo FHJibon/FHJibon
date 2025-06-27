@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=AnthropoidFHJ;AI+Engineer+in+Progress;Code.+Learn.+Iterate." alt="Typing SVG" />
+</p>
+
 # 👨‍💻 AnthropoidFHJ
 
 > _"Becoming an AI Engineer, one iteration at a time."_
