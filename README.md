@@ -4,7 +4,7 @@
 
 # 👨‍💻 AnthropoidFHJ
 
-> _"Becoming an AI Engineer, one iteration at a time."_
+> _"An AI Engineer, one iteration at a time."_
 
 ---
 
