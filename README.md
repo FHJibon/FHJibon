@@ -16,16 +16,16 @@ I'm Ferdous Hasan, an engineering student with a strong interest in Artificial I
 
 ### Current Focus
 
-- 📚 Learning Python for AI development
-- 🧠 Studying Machine Learning algorithms and neural network basics
-- ⚙️ Experimenting with LangChain, OpenAI, and local LLMs
-- 📦 Using APIs, vector databases, and cloud tools to build real prototypes
+- Learning Python for AI development
+- Studying Machine Learning algorithms and neural network basics
+- Experimenting with LangChain, OpenAI, and local LLMs
+- Using APIs, vector databases, and cloud tools to build real prototypes
 
 ---
 
 ### Tech I'm Working With
 
-#### 🧠 AI & ML
+#### AI & ML
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai)
