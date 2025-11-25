@@ -63,7 +63,7 @@ I'm Ferdous Hasan, an engineering student with a strong interest in Artificial I
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthropoidFHJ&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=AnthropoidFHJ&show_icons=true&theme=github_dark)
 
 ---
 
