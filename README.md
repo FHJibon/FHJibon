@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=28&duration=3000&pause=1000&color=0000CD&center=true&vCenter=true&width=500&lines=AnthropoidFHJ;An+AI+Engineer+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=28&duration=3000&pause=1000&color=0000CD&center=true&vCenter=true&width=500&lines=Ferdous+Hasan;An+AI+Engineer+" alt="Typing SVG" />
 </p>
 
-# AnthropoidFHJ
+# Ferdous Hasan
 
 > _"An AI Engineer & Developer, one iteration at a time."_
 
