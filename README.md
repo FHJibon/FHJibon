@@ -25,7 +25,6 @@ Experienced in developing intelligent applications, automation systems and multi
 <img src="https://img.shields.io/badge/-Scikit--learn-black?style=flat&logo=scikitlearn" height="80"/>
 <img src="https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy" height="80"/>
 <img src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas" height="80"/>
-<img src="https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=matplotlib" height="80"/>
 <img src="https://img.shields.io/badge/-Seaborn-black?style=flat&logo=seaborn" height="80"/>
 <img src="https://img.shields.io/badge/-HuggingFace-black?style=flat&logo=huggingface" height="80"/>
 <img src="https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai" height="80"/>
@@ -37,9 +36,7 @@ Experienced in developing intelligent applications, automation systems and multi
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi" height="80"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" height="80"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" height="80"/>
-<img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux" height="80"/>
 <img src="https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode" height="80"/>
-<img src="https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown" height="80"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" height="80"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql" height="80"/>
 <img src="https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter" height="80"/>
