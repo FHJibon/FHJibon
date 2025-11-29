@@ -8,8 +8,7 @@
 ## About
 
 AI Engineer & Developer with hands-on experience building and deploying end-to-end machine learning and LLM powered systems.  
-I am skilled in transforming real business requirements into scalable, versatile, innovative, impactful, and production-ready AI solutions. 
-Experienced in developing intelligent applications, automation systems and multimodal agents that deliver measurable business value.
+I am skilled in transforming real business requirements into scalable, versatile, innovative, impactful, and production-ready AI solutions.
 
 ## Tech Stack
 
