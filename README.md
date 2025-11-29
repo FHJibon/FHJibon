@@ -1,15 +1,13 @@
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ferdous+Hasan;AI+Engineer+%26+Developer;Building+Real+AI+Projects;Always+Learning+New+Things" />
 </p>
-
 <h1 align="center"><strong>Hey, I'm Ferdous Hasan</strong></h1>
-
 <p align="center"><i>AI Engineer & Developer</i></p>
 
 ---
 
 <div align="center">
-
+ 
 ## About
 
 AI Engineer & Developer with hands-on experience building and deploying end-to-end machine learning and LLM powered systems.  
@@ -46,14 +44,20 @@ Experienced in developing intelligent applications, automation systems and multi
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql" height="80"/>
 <img src="https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter" height="80"/>
 <img src="https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=googlecolab" height="80"/>
-
 </div>
-
 
 ---
 
-## Connect With Me
+## GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FHJibon&theme=highcontrast" />
+</div>
+
+---
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ferdoushasanjibon/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:f.h.jibon1250@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=f.h.jibon1250@gmail.com)
 </div>
