@@ -50,7 +50,7 @@ Experienced in developing intelligent applications, automation systems and multi
 
 ## GitHub Streak
 
-<div align="center">
+<div align="center" style="transform: scale(0.8); transform-origin: top;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FHJibon&theme=highcontrast" />
 </div>
 
