@@ -1,69 +1,59 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=28&duration=3000&pause=1000&color=0000CD&center=true&vCenter=true&width=500&lines=Ferdous+Hasan;An+AI+Engineer+" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ferdous+Hasan;AI+Engineer+%26+Developer;Building+Real+AI+Projects;Always+Learning+New+Things" />
 </p>
 
-# Ferdous Hasan
+<h1 align="center"><strong>Hey, I'm Ferdous Hasan</strong></h1>
 
-> _"An AI Engineer & Developer, one iteration at a time."_
-
----
-
-### About Me
-
-I'm Ferdous Hasan, an AI Developer with a strong foundation in Artificial Intelligence and intelligent systems. I’m still learning the core tools, building practical projects, and exploring how AI can solve real-world problems.
+<p align="center"><i>AI Engineer & Developer</i></p>
 
 ---
 
-### Current Focus
+<div align="center">
 
-- Learning Python for AI development
-- Studying Machine Learning algorithms and neural network
-- Experimenting with OpenAI, and local LLMs
-- Using APIs, vector databases, and cloud tools to build real prototypes
+## About
 
----
-
-### Tech I'm Working With
-
-#### AI & ML
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=chainlink)
-
-#### Vector DBs & Agents
-
-![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat&logo=pinboard)
-![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat&logo=databricks)
-
-#### Cloud & Infra
-
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-
-#### Dev Tools
-
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
+AI Engineer & Developer with hands-on experience building and deploying end-to-end machine learning and LLM powered systems.  
+I am skilled in transforming real business requirements into scalable, versatile, innovative, impactful, and production-ready AI solutions. 
+Experienced in developing intelligent applications, automation systems and multimodal agents that deliver measurable business value.
 
 ---
 
-### Learning Goals (2026)
+## Tech Stack
 
--  Master Python, NumPy, Pandas, and scikit-learn
--  Understand LLMs, vector stores & tool integration
--  Build 10+ working AI projects using APIs, Pinecone
--  Gain hands-on experience deploying AI apps using AWS
+<div align="center">
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" height="80"/>
+<img src="https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow" height="80"/>
+<img src="https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch" height="80"/>
+<img src="https://img.shields.io/badge/-Scikit--learn-black?style=flat&logo=scikitlearn" height="80"/>
+<img src="https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy" height="80"/>
+<img src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas" height="80"/>
+<img src="https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=matplotlib" height="80"/>
+<img src="https://img.shields.io/badge/-Seaborn-black?style=flat&logo=seaborn" height="80"/>
+<img src="https://img.shields.io/badge/-HuggingFace-black?style=flat&logo=huggingface" height="80"/>
+<img src="https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai" height="80"/>
+<img src="https://img.shields.io/badge/-LangChain-black?style=flat&logo=chainlink" height="80"/>
+<img src="https://img.shields.io/badge/-Pinecone-black?style=flat&logo=pinboard" height="80"/>
+<img src="https://img.shields.io/badge/-FAISS-black?style=flat&logo=databricks" height="80"/>
+<img src="https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws" height="80"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker" height="80"/>
+<img src="https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi" height="80"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" height="80"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" height="80"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux" height="80"/>
+<img src="https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode" height="80"/>
+<img src="https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown" height="80"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" height="80"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql" height="80"/>
+<img src="https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter" height="80"/>
+<img src="https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=googlecolab" height="80"/>
+
+</div>
+
 
 ---
 
-
-### Life Philosophy
-
-> “Peace in my TIME”
-
----
-
-### Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ferdoushasanjibon/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:f.h.jibon1250@gmail.com)
+</div>
