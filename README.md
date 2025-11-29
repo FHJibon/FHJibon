@@ -1,20 +1,15 @@
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ferdous+Hasan;AI+Engineer+%26+Developer;Building+Real+AI+Projects;Always+Learning+New+Things" />
-</p>
 <h1 align="center"><strong>Hey, I'm Ferdous Hasan</strong></h1>
-<p align="center"><i>AI Engineer & Developer</i></p>
-
-
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Developer;Building+Real+AI+Projects" />
+</p>
 
 <div align="center">
- 
+
 ## About
 
 AI Engineer & Developer with hands-on experience building and deploying end-to-end machine learning and LLM powered systems.  
 I am skilled in transforming real business requirements into scalable, versatile, innovative, impactful, and production-ready AI solutions. 
 Experienced in developing intelligent applications, automation systems and multimodal agents that deliver measurable business value.
-
-
 
 ## Tech Stack
 
@@ -42,7 +37,6 @@ Experienced in developing intelligent applications, automation systems and multi
 <img src="https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter" height="80"/>
 <img src="https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=googlecolab" height="80"/>
 </div>
-
 
 ## GitHub Streak
 
